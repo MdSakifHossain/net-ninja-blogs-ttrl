@@ -1,0 +1,74 @@
+{
+	"name": "Anonymous Blogs",
+	"short_name": "Anonymous Blogs",
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#ef4444",
+	"background_color": "#ef4444",
+	"orientation": "portrait-primary",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In enim purus, faucibus placerat nibh tempus, dictum aliquet quam. Quisque a aliquam lacus. Cras metus velit - Teri maa ki chuuuut.. 😁😁😘😘",
+	"icons": [
+		{
+			"src": "/svg/icon.svg",
+			"type": "image/svg+xml",
+			"sizes": "any"
+		}
+	],
+	"screenshots": [
+		{
+			"src": "/screenshots/ss-demo.png",
+			"sizes": "1080x2412",
+			"type": "image/png"
+		},
+		{
+			"src": "/screenshots/ss-demo.png",
+			"sizes": "1080x2412",
+			"type": "image/png"
+		},
+		{
+			"src": "/screenshots/ss-demo.png",
+			"sizes": "1080x2412",
+			"type": "image/png"
+		},
+		{
+			"src": "/screenshots/ss-demo.png",
+			"sizes": "1080x2412",
+			"type": "image/png"
+		}
+	],
+	"shortcuts": [
+		{
+			"name": "Home",
+			"url": "/",
+			"icons": [
+				{
+					"src": "/svg/logo.svg",
+					"type": "image/svg+xml",
+					"sizes": "any"
+				}
+			]
+		},
+		{
+			"name": "Blogs",
+			"url": "/blogs",
+			"icons": [
+				{
+					"src": "/svg/logo.svg",
+					"type": "image/svg+xml",
+					"sizes": "any"
+				}
+			]
+		},
+		{
+			"name": "Create",
+			"url": "/create",
+			"icons": [
+				{
+					"src": "/svg/logo.svg",
+					"type": "image/svg+xml",
+					"sizes": "any"
+				}
+			]
+		}
+	]
+}
